@@ -12,7 +12,6 @@ Self Heal Automation in Slack Specifically when used for Raising Ticket
 - Scripts: Example PowerShell script to restart VPN service and check version.
 - Database: Store logs of what was attempted (SQLite, DynamoDB, or even just JSON at first).
 - Document It
-- Add a README explaining setup, dependencies, and examples.
 - Include sample scripts (VPN restart, printer reset, etc.).
 - Iterate
 - Start with one scenario (VPN).
